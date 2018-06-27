@@ -1,0 +1,1 @@
+{"informacje": [{"title": "informacje 1", "typ": "brak", "starter": "CC_kalendarz_api.MyHtmlFrame(self.P1_NB2)"}]}
