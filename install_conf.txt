@@ -1,1 +1,1 @@
-{"informacje": [{"title": "kalendarz", "typ": "panel", "starter": "CC_kalendarz_api.MyHtmlFrame(self.P1_NB2)"}]}
+{"title": "kalendarz", "active": "True"}
